@@ -1,4 +1,5 @@
-## Hi there 👋
+## Make VLMs Memorize Normality: Memory-Enhanced Vision-Language Model for Video Anomaly Detection 👋
+![MEMVLM](https://github.com/user-attachments/assets/830f86d5-5622-4547-8c54-543fa40b7dd4)
 
 <!--
 **MEMVLM/MEMVLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
