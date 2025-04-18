@@ -21,4 +21,4 @@ python eval.py
 
 ## 📌 Full Code
 
-The full training and development code will be released after the corresponding paper is accepted. Stay tuned!
+The full development code will be released after the paper is accepted.
